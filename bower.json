@@ -1,12 +1,12 @@
 {
-  "name": "peerjs",
+  "name": "peerjs-firefox40plus",
   "version": "0.3.14",
   "homepage": "http://peerjs.com",
   "authors": [
     "Michelle Bu <michelle@michellebu.com>"
   ],
   "description": "Simple peer-to-peer data and media using WebRTC.",
-  "main": "dist/peer.mink.js",
+  "main": "dist/peer.min.js",
   "keywords": [
     "WebRTC",
     "peer",
